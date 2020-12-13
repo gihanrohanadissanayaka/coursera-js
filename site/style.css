@@ -1,0 +1,74 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    margin-top: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+p {
+    background-color: cornflowerblue;
+}
+
+.sectionClass01{
+    color: darkgreen;
+    background-color: darkorange;
+    border: 10px black;
+    text-align: center;
+    display: block;
+}
+
+#click:hover{
+    background-color: blue;
+}
+
+h6{
+    color: aquamarine !important;       /*this style overide all other styles */
+
+}
+
+p.style01{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.style02 {
+    width: 6cm;
+    background-color: violet;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+#floatLeft{
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+/*
+
+p{
+    position: relative;   relative position move from before position on the plane
+    top: 50px;
+    left: 50px;
+}
+
+p{
+    position: relative;     from the before position 
+    top: 50px;
+    left: 50px;
+}
+
+p{
+    position: absolute;     set absolute position on the page 
+    top: 50px;
+    left: 50px;
+}
+*/
