@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(147, 224, 205);
+    font-size: 16px;
+    font-family: 'Langar', cursive;
+    color: rgb(24, 22, 17);
+}
+
+#header-nav{
+    background-color: rgb(149, 214, 214);
+}
+
+#logo{
+    border-radius: 30%;
+    margin-right: 5px;
+}
+h1{
+    color: rgb(236, 25, 88);
+    font-size: 350%;
+    text-shadow: lightgreen;
+    
+}
+
+.nav-link{
+    color: rgb(51, 19, 7);
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#address{
+    color: black;
+    font-size: 80%;
+    text-align: center;
+}
