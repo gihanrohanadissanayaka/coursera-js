@@ -9,7 +9,7 @@ This web site fully developed with html & css without any thirdparty dependencie
   
 
 Browse project - https://ecommerce-muradevelopers.netlify.app
-![banner](https://i.im.ge/2021/07/01/uL7GL.png)
+![banner](https://i.im.ge/2021/08/08/077aL.png)
 
 _Mobile View_
-<img src="https://i.im.ge/2021/08/03/LBFDG.jpg" width="200" height="400" />
+<img src="https://i.im.ge/2021/08/08/07DyG.jpg" width="200" height="400" />
