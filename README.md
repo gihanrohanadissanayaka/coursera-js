@@ -8,7 +8,7 @@ This web site fully developed with html & css without any thirdparty dependencie
 * css styles
   
 
-Browse project - https://ecommerce-muradevelopers.netlify.app
+Browse project - https://gihanrohanadissanayaka.github.io/coursera-js/Canteen/App/
 ![banner](https://i.im.ge/2021/08/08/077aL.png)
 
 _Mobile View_
